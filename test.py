@@ -1,0 +1,7 @@
+print('say somthing:')
+print('yes sure, what do you want me to play: ')
+print('Yes, playing shape of you')
+print('say somthing:')
+print('increacing volume')
+print('say somthing:')
+print('decreasing volume') 
